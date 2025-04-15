@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dists/xenorat.jpeg" alt="XenoRAT Logo" width="200px" height="200px"/>
+  <img src="src/xenorat.jpeg" alt="XenoRAT Logo" width="200px" height="200px"/>
   <h1>XenoRAT</h1>
   <p>A powerful and advanced Remote Access Tool for system administration and monitoring.</p>
 

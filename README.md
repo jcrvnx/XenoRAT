@@ -12,8 +12,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Documentation](#documentation)
-- [Security](#security)
 - [Contributing](#contributing)
 - [License](#license)
 

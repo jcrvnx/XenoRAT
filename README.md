@@ -64,13 +64,8 @@ XenoRAT is a sophisticated Remote Access Trojan (RAT) used by cybercriminals and
 
 ---
 
-## 🌟 Star History
-
-<div align="center">
-  
-[![Star History Chart](https://api.star-history.com/svg?repos=jcrvnx/XenoRAT&type=Date)](https://star-history.com/#jcrvnx/XenoRAT&Date)
-
-</div>
+## ⭐ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=jcrvnx/XenoRAT&type=Timeline)](https://www.star-history.com/#jcrvnx/XenoRAT&Timeline)
 
 ## 🤝 Contributing
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.

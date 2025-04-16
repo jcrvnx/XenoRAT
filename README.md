@@ -55,18 +55,12 @@ XenoRAT is a sophisticated Remote Access Trojan (RAT) used by cybercriminals and
     # Double-click xeno-rat-server.exe or run it from the command line
     xeno-rat-server.exe
     ```
-6. Edit `config.ini` to customize:
-``` ini
-[Connection]
-Port = 5555
-Password = xeno@123
-```
-
-7.  Done. Enjoy the show.
+6.  Done. Enjoy the show.
 
 ## ▶️ YouTube Tutorial for Running XenoRAT
 
-[YouTube Tutorial](https://www.youtube.com/watch?v=hzlyzypuTqI&rco=1)
+[INFECTING MY OWN PC with XENO RAT](https://www.youtube.com/watch?v=hzlyzypuTqI&rco=1)<br>
+[🐀XenoRAT(Remote Administration Tool)](https://www.youtube.com/watch?v=yTD1t3ck_XQ)
 
 ---
 

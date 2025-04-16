@@ -98,13 +98,36 @@ Before operation, ensure **your own machine** has:
 ## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=jcrvnx/XenoRAT&type=Timeline)](https://www.star-history.com/#jcrvnx/XenoRAT&Timeline)
 
-## 🤝 Contributing
-Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
+---
+
+## ⚠️ Legal & Ethical Warning ⚠️
+
+**OPERATION SECURITY NOTICE:**
+
+*   **Unauthorized Access is ILLEGAL:** Using this tool and wordlist against networks you do **NOT** own or have **explicit written permission** to test is a **CRIMINAL OFFENSE** in the Philippines (RA 10175 Cybercrime Prevention Act) and most other jurisdictions.
+*   **Educational Purposes ONLY:** This toolkit is provided strictly for **educational learning** and for **auditing your OWN network security** or networks where you have **obtained explicit consent**.
+*   **NO RESPONSIBILITY:** The creators and contributors of this guide, `wifite`, and the `PH-WIFI-WORDLISTS` repository are **NOT RESPONSIBLE** for any illegal activities, misuse, or damage caused by these tools.
+*   **USE AT YOUR OWN EXTREME RISK:** You are solely responsible for your actions. Understand the laws and ethical implications before proceeding. **Think before you type.**
+
+---
+
+<div>
 
 ## 📄 License
 XenoRAT is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 🙏 Acknowledgments
+
+- [moom825](https://github.com/moom825/xeno-rat) <- The Creator
+- [Azaerium](https://github.com/Azaerium/XenoRAT) <- The fixer of bugs
+
+---
+
+
+</div>
+
 <div align="center">
   Made with ❤️ by <a href="https://github.com/jcrvnx">jcrvnx</a>
 </div>

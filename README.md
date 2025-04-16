@@ -104,9 +104,8 @@ Before operation, ensure **your own machine** has:
 
 **OPERATION SECURITY NOTICE:**
 
-*   **Unauthorized Access is ILLEGAL:** Using this tool and wordlist against networks you do **NOT** own or have **explicit written permission** to test is a **CRIMINAL OFFENSE** in the Philippines (RA 10175 Cybercrime Prevention Act) and most other jurisdictions.
-*   **Educational Purposes ONLY:** This toolkit is provided strictly for **educational learning** and for **auditing your OWN network security** or networks where you have **obtained explicit consent**.
-*   **NO RESPONSIBILITY:** The creators and contributors of this guide, `wifite`, and the `PH-WIFI-WORDLISTS` repository are **NOT RESPONSIBLE** for any illegal activities, misuse, or damage caused by these tools.
+*   **Unauthorized Access is ILLEGAL:** Using this tool and wordlist against networks you do **NOT** own or have **explicit written permission** to test is a **CRIMIN Prevention Act) and moAL OFFENSE** in the Philippines (RA 10175 Cybercrimest other jurisdictions.
+*   **NO RESPONSIBILITY:** The creators and contributors of this guide `XenoRAT` repository are **NOT RESPONSIBLE** for any illegal activities, misuse, or damage caused by these tools.
 *   **USE AT YOUR OWN EXTREME RISK:** You are solely responsible for your actions. Understand the laws and ethical implications before proceeding. **Think before you type.**
 
 ---

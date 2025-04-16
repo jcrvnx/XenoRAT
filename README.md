@@ -3,9 +3,10 @@
   <h1>XenoRAT</h1>
   <p>XenoRAT is an advanced C2 (Command & Control) framework designed for red team operations,<br>enabling stealthy persistence, lateral movement, and post-exploitation in<br>authorized engagements.</p>
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jcrvnx/XenoRAT/blob/main/LICENSE)
-  [![Version](https://img.shields.io/badge/version-2025-blue.svg)](https://github.com/jcrvnx/XenoRAT)
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jcrvnx/XenoRAT/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jcrvnx/XenoRAT/blob/main/LICENSE)
+[![Version](https://img.shields.io/badge/version-2025-blue.svg)](https://github.com/jcrvnx/XenoRAT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jcrvnx/XenoRAT/graphs/commit-activity)
+[![GitHub Stars](https://img.shields.io/github/stars/jcrvnx/XenoRAT?style=social)](https://github.com/jcrvnx/XenoRAT/stargazers)
 </div>
 
 ## 📋 Table of Contents
@@ -41,12 +42,17 @@ XenoRAT is a sophisticated Remote Access Trojan (RAT) used by cybercriminals and
     cd XenoRAT
     ```
 
-3.  Run `disabler.bat` **as administrator** to attempt disabling Windows security measures. According to the original instructions, this needs to be done on both your machine and the target machine.
-    ```bash
-    # Right-click disabler.bat and select "Run as administrator"
-    disabler.bat
-    ```
-    **(See Warning Above - This step significantly compromises system security!)**
+3. Run `disabler.bat` as **Administrator** to disable Windows security measures:
+
+   * **For the attacker's machine:** Manually disable real-time protection to avoid detection during compilation.
+   * **For the target machine:** Required to bypass security protections on the victim's system.
+
+   ```bash
+   # Right-click disabler.bat and select "Run as administrator"
+   disabler.bat
+
+   ```
+**(See Warning Above - This step significantly compromises system security!)**
 
 4.  The script will require a system reboot to apply the changes. Allow your system to restart.
 

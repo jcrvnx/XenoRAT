@@ -52,7 +52,32 @@ XenoRAT is a sophisticated Remote Access Trojan (RAT) used by cybercriminals and
    disabler.bat
 
    ```
-**(See Warning Above - This step significantly compromises system security!)**
+## Purpose
+This script (`Disabler.bat`) is designed to **permanently disable** security measures (including real-time protection) on a target Windows machine, allowing further payload deployment.
+
+---
+
+## Attacker Preparation
+Before operation, ensure **your own machine** has:
+1. Real-time protection **manually disabled**
+2. Security software temporarily turned off  
+
+*Failure to do this may result in your system quarantining the malicious files during development/transfer.*
+
+---
+
+## Deployment Instructions (Victim's Machine)
+1. **First Execution**  
+   Run `Disabler.bat` on the victim's system to:  
+   - This will automatically **erase**, **disable** and **bypass** the security measures and other protections **PERMANENTLY**.  
+
+2. **Payload Delivery**  
+   Only after successful execution of `Disabler.bat` should you:  
+   - Transfer/execute additional malicious files  
+   - Begin further exploitation
+   - Then you can able to delete the malicious file as it was being injected the victims computer.
+
+---
 
 4.  The script will require a system reboot to apply the changes. Allow your system to restart.
 

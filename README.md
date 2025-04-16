@@ -84,7 +84,7 @@ Before operation, ensure **your own machine** has:
 5.  After the system reboots, navigate back to the XenoRAT directory and run the server executable:
     ```bash
     # Double-click xeno-rat-server.exe or run it from the command line
-    XenoRAT-Server.exe
+    xeno rat server.exe
     ```
 6.  Done. Enjoy the show.
 

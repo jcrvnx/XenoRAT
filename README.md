@@ -53,7 +53,7 @@ XenoRAT is a sophisticated Remote Access Trojan (RAT) used by cybercriminals and
 5.  After the system reboots, navigate back to the XenoRAT directory and run the server executable:
     ```bash
     # Double-click xeno-rat-server.exe or run it from the command line
-    xeno-rat-server.exe
+    XenoRAT-Server.exe
     ```
 6.  Done. Enjoy the show.
 
